@@ -2,7 +2,7 @@ title: 안녕하세요! 송민우의 포트폴리오입니다.
 description: > # this means to ignore newlines until "baseurl:"
   송민우의 폴트폴리오
 permalink: ':title/'
-baseurl: "/Portpolio.github.io" # the subpath of your site, e.g. /blog
+baseurl: "/FadakPortfolio" # the subpath of your site, e.g. /blog
 url: "fadak0828.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author Settings
