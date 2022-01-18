@@ -1,0 +1,49 @@
+I"<h1 id="web-portfolio">Web Portfolio</h1>
+<hr />
+
+<h2 id="다짐-pc-웹">다짐 PC 웹</h2>
+<p><a href="https://www.da-gym.co.kr/"><img src="/FadakPortfolio/assets/img/web/dgpc.png" alt="다짐 PC" /></a>
+<a href="https://www.da-gym.co.kr/">페이지 구경하기</a></p>
+
+<h3 id="개요">개요</h3>
+<ul>
+  <li><strong>작업기간</strong> : 2017-03 ~ 2017-06</li>
+  <li><strong>소요시간</strong> : 3개월</li>
+  <li><strong>작업인원</strong> : 2명(프론트, 백엔드)</li>
+  <li><strong>담당내용</strong> : 프론트</li>
+</ul>
+
+<hr />
+
+<h2 id="다짐-모바일-웹">다짐 모바일 웹</h2>
+<p><a href="https://www.da-gym.co.kr/"><img src="/FadakPortfolio/assets/img/web/dgmb.png" alt="다짐 모바일" /></a>
+<a href="https://www.da-gym.co.kr/">페이지 구경하기(모바일에서만 보입니다!)</a></p>
+
+<h3 id="개요-1">개요</h3>
+<ul>
+  <li><strong>작업기간</strong> : 2017-06 ~ 2017-09</li>
+  <li><strong>소요시간</strong> : 3개월</li>
+  <li><strong>작업인원</strong> : 2명(프론트, 백엔드)</li>
+  <li><strong>담당내용</strong> : 프론트</li>
+</ul>
+
+<h2 id="tooltip-dictionnary---툴팁-영한사전">Tooltip Dictionnary - 툴팁 영한사전</h2>
+
+<p><a href="https://chrome.google.com/webstore/detail/tooltip-dictionary-%ED%88%B4%ED%8C%81-%EC%98%81%ED%95%9C%EC%82%AC/dlabodjigcmnanaldmfkpflpopgmdhii"><img src="/FadakPortfolio/assets/img/web/td.png" alt="툴팁 영한사전" /></a>
+<a href="https://chrome.google.com/webstore/detail/tooltip-dictionary-%ED%88%B4%ED%8C%81-%EC%98%81%ED%95%9C%EC%82%AC/dlabodjigcmnanaldmfkpflpopgmdhii">크롬 웹 스토어에서 보기</a></p>
+
+<h3 id="개요-2">개요</h3>
+<ul>
+  <li><strong>작업기간</strong> : 2017-02</li>
+  <li><strong>소요시간</strong> : 2일</li>
+</ul>
+
+<h3 id="설명">설명</h3>
+<p>어느 사이트에서든 영단어에 마우스를 올리면 단어사전 검색, 드래그하면 번역을 해주는 크롬 확장 플러그인입니다.</p>
+
+<h3 id="사용기술">사용기술</h3>
+<ul>
+  <li>javascript</li>
+  <li>jquery</li>
+</ul>
+:ET

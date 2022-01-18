@@ -1,0 +1,180 @@
+I"<h1 id="unity-portfolio">Unity Portfolio</h1>
+<hr />
+
+<h2 id="pvb---3d-프로젝트">P.V.B - 3D 프로젝트</h2>
+<hr />
+
+<p><a href="https://youtu.be/alLSPT_2J0g?t=0s"><img src="http://img.youtube.com/vi/alLSPT_2J0g/0.jpg" alt="P.V.B" /></a><br />
+<strong><a href="https://youtu.be/alLSPT_2J0g?t=0s">실행영상 보기</a></strong></p>
+
+<h3 id="개요">개요</h3>
+
+<ul>
+  <li><strong>작업기간</strong> : 2021-01 ~ 2021-02</li>
+  <li><strong>작업시간</strong> : 4주</li>
+  <li><strong>작업인원</strong> : 2명</li>
+</ul>
+
+<h3 id="설명">설명</h3>
+
+<p>젤다의 전설, 완다와 거상과 같은 거대 몬스터와 보스전을 하는 게임들을 벤치마킹했습니다. <br />
+플레이어의 일반 공격은 매우 약하게 설정 되어 있으며, 거대한 보스는 걸음마다 넓은 충격파 공격을 합니다. <br />
+또한, 플레이어 근접시 광범위 내려찍기 공격과 동시에 내려 찍은 자리에서 여러 곳으로 불똥을 튀게해 플레이어를 방해합니다. <br />
+플레이어는 맵 곳곳에 위치해있는 석상으로 보스를 유인하여 석상을 내려찍게 만들어야 합니다. <br />
+보스의 공격으로 석상이 파괴되면 일정 데미지와 함께 보스가 쓰러지게 되고 플레이어의 공격력이 상승하게 됩니다.</p>
+
+<h3 id="작업-내용">작업 내용</h3>
+
+<p><img src="/FadakPortfolio/assets/img/unity/pvb/pvb2.png" alt="PVB_git" /></p>
+
+<ul>
+  <li>보스 FSM 구현 및 애니메이션</li>
+  <li>플레이어 캐릭터 FSM 구현 및 애니메이션</li>
+  <li>씨네머신 연출</li>
+  <li>맵 구성</li>
+  <li>UI</li>
+</ul>
+
+<h3 id="사용기술">사용기술</h3>
+<ul>
+  <li>unity</li>
+  <li>git</li>
+</ul>
+
+<p><strong><a href="https://github.com/fadak0828/PVB">GitHub에서 보기</a></strong></p>
+
+<hr />
+<hr />
+
+<h2 id="요트-다이스---3d-프로젝트">요트 다이스 - 3D 프로젝트</h2>
+<hr />
+<p><a href="https://youtu.be/iY2gpxN3E_w?t=0s"><img src="http://img.youtube.com/vi/iY2gpxN3E_w/0.jpg" alt="그림으로말해요" /></a><br />
+<strong><a href="https://youtu.be/iY2gpxN3E_w?t=0s">실행영상 보기</a></strong></p>
+
+<h3 id="개요-1">개요</h3>
+
+<ul>
+  <li><strong>작업기간</strong> : 2021-04</li>
+  <li><strong>작업시간</strong> : 1주</li>
+  <li><strong>작업인원</strong> : 1명</li>
+</ul>
+
+<h3 id="설명-1">설명</h3>
+<p>보드게임 요트 다이스를 유니티+포톤네트워크를 활용해 온라인 1:1 게임으로 만들었습니다.</p>
+
+<h3 id="사용기술-1">사용기술</h3>
+<ul>
+  <li>unity</li>
+  <li>git</li>
+</ul>
+
+<p><a href="https://docs.google.com/presentation/d/1j03oFwmlttczcpU7Sk60vjlVZYZg8P7-GZPp5lujpIM/edit?usp=sharing">기획문서보기</a></p>
+
+<p><a href="https://github.com/fadak0828/Yacht">GitHub에서 보기</a></p>
+
+<hr />
+<hr />
+
+<h2 id="그림으로-말해요---ar프로젝트">그림으로 말해요 - AR프로젝트</h2>
+<hr />
+
+<p><a href="https://youtu.be/5IB8C9m9IWo?t=0s"><img src="http://img.youtube.com/vi/5IB8C9m9IWo/0.jpg" alt="그림으로말해요" /></a><br />
+<strong><a href="https://youtu.be/5IB8C9m9IWo?t=0s">실행영상 보기</a></strong></p>
+
+<h3 id="개요-2">개요</h3>
+
+<ul>
+  <li><strong>작업기간</strong> : 2021-02</li>
+  <li><strong>작업시간</strong> : 1주</li>
+  <li><strong>작업인원</strong> : 2명</li>
+</ul>
+
+<h3 id="설명-2">설명</h3>
+<p>AR Foundation의 ImageTracking을 이용하여 단어 카드들을 인식한 뒤 문법에 맞는 문장이면 해당 문장이 실행되는 유아 교육용 AR 미니 프로젝트입니다.</p>
+
+<h3 id="작업-내용-1">작업 내용</h3>
+
+<p><img src="/FadakPortfolio/assets/img/unity/rit/rit_git.png" alt="rit_git" /></p>
+<ul>
+  <li>
+    <h4 id="단어카드-클래스-및-구조체-설계">단어카드 클래스 및 구조체 설계</h4>
+    <p><img src="/FadakPortfolio/assets/img/unity/rit/code.png" alt="code" /></p>
+  </li>
+  <li>
+    <h4 id="이미지-인식-구현">이미지 인식 구현</h4>
+    <p><img src="/FadakPortfolio/assets/img/unity/rit/imageTracking.png" alt="imageTracking" /></p>
+  </li>
+</ul>
+
+<h3 id="사용기술-2">사용기술</h3>
+<ul>
+  <li>unity</li>
+  <li>ArFoundation</li>
+  <li>git</li>
+</ul>
+
+<p><a href="https://github.com/fadak0828/Rabbit_Is_Turtle">GitHub에서 보기</a></p>
+
+<hr />
+<hr />
+
+<h2 id="도서관이-들썩들썩---ar프로젝트">도서관이 들썩들썩 - AR프로젝트</h2>
+<hr />
+<p><a href="https://youtu.be/E5wTwc2zwEI?t=0s"><img src="http://img.youtube.com/vi/E5wTwc2zwEI/0.jpg" alt="그림으로말해요" /></a><br />
+<strong><a href="https://youtu.be/E5wTwc2zwEI?t=0s">실행영상 보기</a></strong></p>
+
+<h3 id="개요-3">개요</h3>
+
+<ul>
+  <li><strong>작업기간</strong> : 2021-04 ~ 2021-05</li>
+  <li><strong>작업시간</strong> : 8주</li>
+  <li><strong>작업인원</strong> : 3명</li>
+</ul>
+
+<h3 id="설명-3">설명</h3>
+<p>AR Foundation의 ImageTracking을 이용한 AR 동화책입니다.</p>
+
+<h3 id="사용기술-3">사용기술</h3>
+<ul>
+  <li>unity</li>
+  <li>ArFoundation</li>
+  <li>git</li>
+</ul>
+
+<p><a href="/FadakPortfolio/assets/img/unity/librarying/documents.pdf">기획문서보기</a></p>
+
+<p><a href="https://github.com/fadak0828/Librarying">GitHub에서 보기</a></p>
+
+<hr />
+<hr />
+
+<h2 id="lightrepairteam---vr프로젝트">LightRepairTeam - VR프로젝트</h2>
+<hr />
+<p><a href="https://youtu.be/1J9_9gB64bw?t=0s"><img src="http://img.youtube.com/vi/1J9_9gB64bw/0.jpg" alt="LRT" /></a><br />
+<strong><a href="https://youtu.be/1J9_9gB64bw?t=0s">실행영상 보기</a></strong></p>
+
+<h3 id="개요-4">개요</h3>
+
+<ul>
+  <li><strong>작업기간</strong> : 2021-04</li>
+  <li><strong>작업시간</strong> : 2주</li>
+  <li><strong>작업인원</strong> : 3명</li>
+</ul>
+
+<h3 id="설명-4">설명</h3>
+<p>빛의 굴절, 합성, 분리를 이용해 퍼즐을 풀어나가는 VR게임입니다.</p>
+
+<h3 id="사용기술-4">사용기술</h3>
+<ul>
+  <li>unity</li>
+  <li>SteamVR</li>
+  <li>git</li>
+</ul>
+
+<p><a href="/FadakPortfolio/assets/img/unity/LRT.pdf">기획문서보기</a></p>
+
+<p><a href="https://github.com/fadak0828/Librarying">GitHub에서 보기</a></p>
+
+<hr />
+<hr />
+:ET

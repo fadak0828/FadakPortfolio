@@ -1,0 +1,30 @@
+I"�<h1 id="android-portfolio">Android Portfolio</h1>
+
+<h2 id="민우키보드">민우키보드</h2>
+
+<p><a href="https://play.google.com/store/apps/details?id=psn.FADAK.MinWooKey"><img src="/FadakPortfolio/assets/img/android/mw.png" alt="민우키보드" /></a> <br />
+<a href="https://play.google.com/store/apps/details?id=psn.FADAK.MinWooKey">GooglePlay에서 보기</a></p>
+
+<h3 id="개요">개요</h3>
+<ul>
+  <li><strong>작업기간</strong> : 2015.12~2016.2</li>
+  <li><strong>소요시간</strong> : 3개월</li>
+  <li><strong>작업인원</strong> : 1명</li>
+</ul>
+
+<h3 id="작업내용">작업내용</h3>
+<ul>
+  <li>천지인, 나랏글, SKY, qwerty, 자체제작 오토마타 구현</li>
+  <li>키보드 테마 커스터마이징</li>
+  <li>레이아웃 커스터마이징 기능</li>
+  <li>AdMob 연동</li>
+  <li>인앱결제 구현</li>
+</ul>
+
+<h3 id="사용기술">사용기술</h3>
+<ul>
+  <li>JAVA</li>
+  <li>Android Framework</li>
+  <li>PHP &amp; AWS (테마 스토어 구현)</li>
+</ul>
+:ET

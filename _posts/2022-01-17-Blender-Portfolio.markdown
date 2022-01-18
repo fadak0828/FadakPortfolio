@@ -111,12 +111,21 @@ tags: [Blender, 3D Modeling, 3D Animation]
 
 ---
 
-### 낙서하듯 만든 작품
+### 낙서하듯 만든 작품 (oldman)
 
 ![3D Modeling]({{site.baseurl}}/assets/img/blender/oldman.png)
 
 * **작업기간** : 2022-01
 * **작업시간** : 15분
+
+---  
+
+### 낙서하듯 만든 작품2 (swagcat)
+
+![3D Modeling]({{site.baseurl}}/assets/img/blender/swagcat.png)
+
+* **작업기간** : 2022-01
+* **작업시간** : 45분
 
 ---  
 
