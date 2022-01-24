@@ -135,7 +135,7 @@ tags: [Blender, 3D Modeling, 3D Animation]
 
 ### SnowBird (이미지를 클릭하세요)
 
-[![SnowBird](http://img.youtube.com/vi/8K9n7ZN4TpA/0.jpg)](https://youtu.be/8K9n7ZN4TpA?t=0s)  
+[![SnowBird](http://img.youtube.com/vi/8K9n7ZN4TpA/0.jpg)](https://youtu.be/8K9n7ZN4TpA?t=0s)     
 [애니메이션 보기](https://youtu.be/8K9n7ZN4TpA?t=0s)   
 
 * **작업기간** : 2021-10
@@ -145,7 +145,7 @@ tags: [Blender, 3D Modeling, 3D Animation]
 
 ### PIXAR intro (이미지를 클릭하세요)
 
-[![PIXAR intro](http://img.youtube.com/vi/RCOWq9-OsSs/0.jpg)](https://youtu.be/RCOWq9-OsSs?t=0s) 
+[![PIXAR intro](http://img.youtube.com/vi/RCOWq9-OsSs/0.jpg)](https://youtu.be/RCOWq9-OsSs?t=0s)    
 [애니메이션 보기](https://youtu.be/RCOWq9-OsSs?t=0s)   
 
 * **작업기간** : 2021-10
@@ -155,7 +155,7 @@ tags: [Blender, 3D Modeling, 3D Animation]
 
 ### GrowUp (이미지를 클릭하세요)
 
-[![GrowUp](http://img.youtube.com/vi/ETp9g0zE_zM/0.jpg)](https://youtu.be/ETp9g0zE_zM?t=0s)  
+[![GrowUp](http://img.youtube.com/vi/ETp9g0zE_zM/0.jpg)](https://youtu.be/ETp9g0zE_zM?t=0s)     
 [애니메이션 보기](https://youtu.be/ETp9g0zE_zM?t=0s)   
 
 * **작업기간** : 2021-11
@@ -166,7 +166,7 @@ tags: [Blender, 3D Modeling, 3D Animation]
 
 ### Icecream Factory (이미지를 클릭하세요)
 
-[![Icecream Factory](http://img.youtube.com/vi/Lb9ZIq6OTcw/0.jpg)](https://youtu.be/Lb9ZIq6OTcw?t=0s)  
+[![Icecream Factory](http://img.youtube.com/vi/Lb9ZIq6OTcw/0.jpg)](https://youtu.be/Lb9ZIq6OTcw?t=0s)     
 [애니메이션 보기](https://youtu.be/Lb9ZIq6OTcw?t=0s)   
 
 * **작업기간** : 2022-01
@@ -177,7 +177,7 @@ tags: [Blender, 3D Modeling, 3D Animation]
 
 ### MotionTracking (이미지를 클릭하세요)
 
-[![MotionTracking](http://img.youtube.com/vi/4amCqOMc62o/0.jpg)](https://youtu.be/4amCqOMc62o?t=0s)  
+[![MotionTracking](http://img.youtube.com/vi/4amCqOMc62o/0.jpg)](https://youtu.be/4amCqOMc62o?t=0s)     
 [애니메이션 보기](https://youtu.be/4amCqOMc62o?t=0s)   
 
 * **작업기간** : 2022-01
@@ -187,7 +187,7 @@ tags: [Blender, 3D Modeling, 3D Animation]
 
 ### CanProductionVideo
 
-[![MotionTracking](http://img.youtube.com/vi/j1MVQL0V14Q/0.jpg)](https://youtu.be/j1MVQL0V14Q?t=0s) 
+[![MotionTracking](http://img.youtube.com/vi/j1MVQL0V14Q/0.jpg)](https://youtu.be/j1MVQL0V14Q?t=0s)   
 [애니메이션 보기](https://youtu.be/j1MVQL0V14Q?t=0s)   
 
 * **작업기간** : 2022-01
@@ -198,7 +198,7 @@ tags: [Blender, 3D Modeling, 3D Animation]
 
 ### Wine
 
-[![Wine](http://img.youtube.com/vi/pdX-uglZwZw/0.jpg)](https://youtu.be/pdX-uglZwZw?t=0s) 
+[![Wine](http://img.youtube.com/vi/pdX-uglZwZw/0.jpg)](https://youtu.be/pdX-uglZwZw?t=0s)    
 [애니메이션 보기](https://youtu.be/pdX-uglZwZw?t=0s)   
 
 * **작업기간** : 2022-01
