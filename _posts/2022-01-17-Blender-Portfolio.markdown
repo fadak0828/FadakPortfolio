@@ -2,7 +2,7 @@
 layout: post
 title: Blender Portfolio
 date: 2022-01-17 10:32:20 +0300
-description: 블렌더로 작업한 3D 모델링 및 애니메이션 포트폴리오입니다. 3개월간 독학했습니다.
+description: 블렌더로 작업한 3D 모델링 및 애니메이션 포트폴리오입니다.
 img: blender/donut.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Blender, 3D Modeling, 3D Animation]
@@ -11,7 +11,7 @@ tags: [Blender, 3D Modeling, 3D Animation]
 ## 3D Modeling
 
 ---
-### 블렌더로 만든 첫 작품
+### 도넛
 
 ![3D Modeling]({{site.baseurl}}/assets/img/blender/donut.png)
 
@@ -21,7 +21,7 @@ tags: [Blender, 3D Modeling, 3D Animation]
 ---
 
 
-### 카카오톡 이모티콘을 따라만든 작품
+### 망상토끼
 
 ![3D Modeling]({{site.baseurl}}/assets/img/blender/Rabbit1.png)  
 
@@ -39,7 +39,7 @@ tags: [Blender, 3D Modeling, 3D Animation]
 
 ---
 
-### 새로샀던 가습기가 귀여워서 만든 작품
+### 강아지 가습기
 
 ![3D Modeling]({{site.baseurl}}/assets/img/blender/product1.png)
 
@@ -66,7 +66,7 @@ tags: [Blender, 3D Modeling, 3D Animation]
 
 ---
 
-### 닌텐도 스위치를 잃어버린 슬픔으로 만든 닌텐도 스위치
+### 스위치
 
 ![3D Modeling]({{site.baseurl}}/assets/img/blender/nintendo_switch.png)
 
@@ -102,7 +102,7 @@ tags: [Blender, 3D Modeling, 3D Animation]
 
 ---
 
-### 집에 있는 크래프터 기타를 따라 만든 작품
+### 기타
 
 ![3D Modeling]({{site.baseurl}}/assets/img/blender/Crafter.png)
 
@@ -111,27 +111,28 @@ tags: [Blender, 3D Modeling, 3D Animation]
 
 ---
 
-### 낙서하듯 만든 작품 (oldman)
-
-![3D Modeling]({{site.baseurl}}/assets/img/blender/oldman.png)
-
-* **작업기간** : 2022-01
-* **작업시간** : 15분
-
----  
-
-### 낙서하듯 만든 작품2 (swagcat)
-
-![3D Modeling]({{site.baseurl}}/assets/img/blender/swagcat.png)
-
-* **작업기간** : 2022-01
-* **작업시간** : 45분
-
----  
-
-
 ## 3D Animation
 ---  
+
+### CICLO 리메이크 (이미지를 클릭하세요)
+
+[![CICLO](http://img.youtube.com/vi/QR8ah2p9Vqs/0.jpg)](https://youtu.be/vqGAFCN0rQ0)     
+[애니메이션 보기](https://youtu.be/vqGAFCN0rQ0)   
+
+* **작업기간** : 2022-05
+* **작업시간** : 1일
+
+---  
+
+### 바들바들 동물티콘 (이미지를 클릭하세요)
+
+[![바들바들 동물티콘](http://img.youtube.com/vi/QR8ah2p9Vqs/0.jpg)](https://youtu.be/QR8ah2p9Vqs)     
+[애니메이션 보기](https://youtu.be/QR8ah2p9Vqs)   
+
+* **작업기간** : 2022-05
+* **작업시간** : 1일
+
+---
 
 ### SnowBird (이미지를 클릭하세요)
 
@@ -162,18 +163,6 @@ tags: [Blender, 3D Modeling, 3D Animation]
 * **작업시간** : 3시간
 
 ---  
-
-
-### Icecream Factory (이미지를 클릭하세요)
-
-[![Icecream Factory](http://img.youtube.com/vi/Lb9ZIq6OTcw/0.jpg)](https://youtu.be/Lb9ZIq6OTcw?t=0s)     
-[애니메이션 보기](https://youtu.be/Lb9ZIq6OTcw?t=0s)   
-
-* **작업기간** : 2022-01
-* **작업시간** : 30분
-
----  
-
 
 ### MotionTracking (이미지를 클릭하세요)
 
