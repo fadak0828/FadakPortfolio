@@ -116,7 +116,7 @@ tags: [Blender, 3D Modeling, 3D Animation]
 
 ### CICLO 리메이크 (이미지를 클릭하세요)
 
-[![CICLO](http://img.youtube.com/vi/QR8ah2p9Vqs/0.jpg)](https://youtu.be/vqGAFCN0rQ0)     
+[![CICLO](http://img.youtube.com/vi/vqGAFCN0rQ0/0.jpg)](https://youtu.be/vqGAFCN0rQ0)     
 [애니메이션 보기](https://youtu.be/vqGAFCN0rQ0)   
 
 * **작업기간** : 2022-05
