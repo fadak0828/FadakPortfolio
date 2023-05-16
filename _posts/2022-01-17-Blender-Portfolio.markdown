@@ -195,4 +195,17 @@ tags: [Blender, 3D Modeling, 3D Animation]
 
 ---  
 
+### Beach Diorama
+
+[![BD](http://img.youtube.com/vi/M7OHJHiAeqA/0.jpg)](https://youtu.be/M7OHJHiAeqA)    
+[애니메이션 보기](https://youtu.be/M7OHJHiAeqA?t=0s)   
+
+---  
+
+### Human Face
+
+[![BD]({{site.baseurl}}/assets/img/blender/human_face.png)](https://youtube.com/shorts/GMdJbZl1eyc?feature=share)    
+[애니메이션 보기](https://youtube.com/shorts/GMdJbZl1eyc?feature=share)   
+
+---  
 
