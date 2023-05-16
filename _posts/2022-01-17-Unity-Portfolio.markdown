@@ -10,6 +10,56 @@ tags: [Unity, Game, VR, AR, XR]
 
 # Unity Portfolio
 ---  
+---
+
+---
+## 파도; 보서지는 푸른밤들 - AR프로젝트
+---
+[![그림으로말해요](http://img.youtube.com/vi/r-lNI8m3j6g/0.jpg)](https://youtu.be/r-lNI8m3j6g)
+**[실행영상 보기](https://youtu.be/r-lNI8m3j6g)**
+
+### 개요
+
+* **작업기간** : 4주
+* **작업인원** : 3명
+   
+
+### 설명
+AR Foundation을 활용한 AR 팝업북 연극입니다.
+
+### 사용기술
+* unity
+* ArFoundation
+* git
+
+https://youtu.be/r-lNI8m3j6g
+---
+
+## 도서관이 들썩들썩 - AR프로젝트
+---   
+[![그림으로말해요](http://img.youtube.com/vi/E5wTwc2zwEI/0.jpg)](https://youtu.be/E5wTwc2zwEI?t=0s)  
+**[실행영상 보기](https://youtu.be/E5wTwc2zwEI?t=0s)**
+
+### 개요
+
+* **작업기간** : 2021-04 ~ 2021-05
+* **작업시간** : 8주
+* **작업인원** : 3명
+   
+
+### 설명
+AR Foundation의 ImageTracking을 이용한 AR 동화책입니다.
+
+### 사용기술
+* unity
+* ArFoundation
+* git
+      
+[기획문서보기]({{site.baseurl}}/assets/img/unity/librarying/documents.pdf)
+
+[GitHub에서 보기](https://github.com/fadak0828/Librarying)
+
+---  
 
 ## P.V.B - 3D 프로젝트
 ---
@@ -108,34 +158,6 @@ AR Foundation의 ImageTracking을 이용하여 단어 카드들을 인식한 뒤
 * git
 
 [GitHub에서 보기](https://github.com/fadak0828/Rabbit_Is_Turtle)
-
----  
----
-
-
-## 도서관이 들썩들썩 - AR프로젝트
----   
-[![그림으로말해요](http://img.youtube.com/vi/E5wTwc2zwEI/0.jpg)](https://youtu.be/E5wTwc2zwEI?t=0s)  
-**[실행영상 보기](https://youtu.be/E5wTwc2zwEI?t=0s)**
-
-### 개요
-
-* **작업기간** : 2021-04 ~ 2021-05
-* **작업시간** : 8주
-* **작업인원** : 3명
-   
-
-### 설명
-AR Foundation의 ImageTracking을 이용한 AR 동화책입니다.
-
-### 사용기술
-* unity
-* ArFoundation
-* git
-      
-[기획문서보기]({{site.baseurl}}/assets/img/unity/librarying/documents.pdf)
-
-[GitHub에서 보기](https://github.com/fadak0828/Librarying)
 
 ---  
 ---
